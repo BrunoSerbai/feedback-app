@@ -7,8 +7,8 @@ import FeedbackItem from './components/FeedbackItem.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <Header />
+    
     <App />
-    <FeedbackItem />
+    
   </StrictMode>,
 )
